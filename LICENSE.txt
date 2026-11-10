@@ -1,0 +1,75 @@
+MAGIC DSM PLAYER — PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — 10 November 2026
+
+Copyright (c) 2026 MAGIC NET d.o.o. All rights reserved.
+SPDX-License-Identifier: LicenseRef-Magic-Net-Proprietary
+
+1. Scope and ownership
+
+This license applies to the first-party Magic DSM Player software, installers,
+updater, and accompanying documentation supplied by MAGIC NET d.o.o. (the
+"Software"). The Software is proprietary and is not open-source software.
+MAGIC NET d.o.o. and its licensors retain their respective intellectual property
+rights. Public access to a repository or download does not grant a license.
+
+2. Authorized production use
+
+Only customers or other parties expressly authorized by MAGIC NET d.o.o. may
+install and run the Software. Subject to that authorization and any applicable
+written commercial agreement, the authorized party receives a limited,
+non-exclusive, non-transferable license to use the supplied object-code Software
+on its authorized production signage devices with its authorized DSM deployment.
+No right to receive, access, or publish proprietary source code is granted.
+
+3. Restrictions
+
+Except as expressly authorized in writing by MAGIC NET d.o.o. or permitted by
+applicable law, you may not redistribute, publish, sell, rent, sublicense, or
+otherwise provide the Software to third parties; modify it or create derivative
+works; reverse engineer, decompile, or disassemble its proprietary components;
+remove ownership or license notices; or bypass licensing or access controls.
+You may make copies reasonably necessary for authorized installation, updating,
+and backup. No permission to use company names, logos, or trademarks for other
+purposes is granted.
+
+4. Updates
+
+Authorized use includes installing official updates made available for your
+deployment, including through the built-in updater. Unless accompanied by
+different express terms, updates are covered by this license. This license does
+not promise future updates, support, compatibility, availability, or service
+levels; any such commitments must be stated in a separate written agreement.
+
+5. Third-party components and mandatory rights
+
+Third-party components remain subject to their own licenses and notices. This
+license does not replace those terms, restrict permissions granted by them, or
+limit any source-code or other rights they require. It also does not restrict
+rights that applicable law does not allow the parties to waive, including any
+mandatory rights concerning backup, observation, testing, or interoperability.
+
+6. Warranty and liability
+
+Except as expressly agreed in writing and to the extent permitted by applicable
+law, the Software is provided "as is" and "as available", without warranties,
+including implied warranties of merchantability, fitness for a particular
+purpose, or non-infringement. To that same extent, MAGIC NET d.o.o. is not liable
+for indirect or consequential losses, including lost profits, business
+interruption, or loss of data arising from use of the Software. Nothing in this
+license excludes or limits liability or remedies that cannot lawfully be
+excluded or limited.
+
+7. End of authorization
+
+Your right to use the Software ends when your authorization expires or is
+terminated in accordance with its terms, or when you materially breach this
+license, subject to any applicable notice or cure rights. On termination, cease
+use and remove your copies, except copies whose retention is required by law or
+expressly permitted by a continuing written agreement.
+
+8. Other agreements
+
+A separate written agreement with MAGIC NET d.o.o. takes precedence over this
+license to the extent of a conflict. If any provision cannot be enforced, the
+remaining provisions continue to apply to the extent permitted by law. Rights
+not expressly granted are reserved.
